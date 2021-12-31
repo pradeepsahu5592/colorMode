@@ -1,0 +1,2 @@
+# colorMode
+Color Mode
